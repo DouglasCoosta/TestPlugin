@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TestePlugin:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="480d3656-1170-4340-a2de-7dacbbd1897a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23U8IiImaFvAwUorrg0voD15MPJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Área de Trabalho/servidor/plugins" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="480d3656-1170-4340-a2de-7dacbbd1897a" name="Default Changelist" comment="" />
+      <created>1641777226507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641777226507</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1641778679584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="94" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1641778679584" />
+    <state x="445" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1641904774736">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="445" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1641904774736" />
+    <state x="391" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1641778780481">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="391" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1641778780481" />
+    <state x="370" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1641906275519">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="370" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1641906275519" />
+    <state x="441" y="82" key="FileChooserDialogImpl" timestamp="1641778998666">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="441" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1641778998666" />
+    <state x="170" y="0" key="Maven.ArtifactSearchDialog" timestamp="1641840727320">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="170" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1641840727320" />
+    <state x="141" y="0" key="SettingsEditor" timestamp="1641779028445">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="141" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1641779028445" />
+    <state x="336" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1641903097373">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1641903097373" />
+    <state x="296" y="150" key="run.anything.popup" timestamp="1641778682874">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="296" y="150" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1641778682874" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+name: TestePlugin
+main: projeto.testando.TestePlugin
+description: 'Testando minhas habilidades'
+version: 1.0
+author: dougzimnho
+commands:
+  Port:
+    aliases: portfolio
+  jump:
+    aliases: pular
+  recraft:
+    aliases: sopa
+  sword:
+    aliases: espada

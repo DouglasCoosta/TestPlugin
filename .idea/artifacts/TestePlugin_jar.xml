@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TestePlugin:jar">
+    <output-path>$USER_HOME$/OneDrive/Área de Trabalho/servidor/plugins</output-path>
+    <root id="archive" name="TestePlugin.jar">
+      <element id="module-output" name="TestePlugin" />
+    </root>
+  </artifact>
+</component>
